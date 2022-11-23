@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
+<script type="text/javascript" defer src="ajaxview/part01/script.js"></script>
 </head>
 <body>
 
