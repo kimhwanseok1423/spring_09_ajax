@@ -7,7 +7,9 @@
 <title>도서검색</title>
 <script
    src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script src="ajaxview/part04/jquery.js" ></script>
+<!--  <script src="ajaxview/part04/jquery.js" ></script>-->
+
+<script src="ajaxview/part04/book.js" ></script>
 </head>
 <body>
    <h3>도서검색</h3>
